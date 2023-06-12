@@ -52,6 +52,9 @@
     <Compile Include="locallibrary\wsgi.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="app\" />
+    <Folder Include="app\templates\" />
+    <Folder Include="app\templates\catalog\" />
     <Folder Include="catalog\" />
     <Folder Include="catalog\migrations\" />
     <Folder Include="catalog\tests\" />
