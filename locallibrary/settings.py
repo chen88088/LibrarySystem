@@ -104,7 +104,7 @@ DATABASES = {
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
 DATABASES = {
-    'default': dj_database_url.config(default='postgresql://postgres:postgres@localhost:5432/mysite',        conn_max_age=600    )
+    'default': dj_database_url.config(default='postgres://chen88088:lVi7Panw7Jjae7CFR28JJHz6Hjpndrup@dpg-ci0jvnm4dad5j71kar2g-a/chen88088',        conn_max_age=600    )
 
 }
 
